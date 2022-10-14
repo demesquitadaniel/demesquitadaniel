@@ -1,4 +1,4 @@
-   <html lang="Pt-BR">
+[Pt-BR]
 
 👋 Olá! Eu sou o @demesquitadaniel
 
@@ -12,8 +12,11 @@ e turismo (viação aérea, hotelaria, consultor de vendas, etc).
 CSS e JAVASCRIPT. Aqui no GitHub você encontra exercícios dos cursos e propostos por mim mesmo.
   
   Seja bem vindo(a)!
-//
-//
+
+#####
+
+[En]
+
    <html lang="En">
    
    👋 Hi! I'm @demesquitadaniel
